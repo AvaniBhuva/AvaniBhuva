@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AvaniBhuva
-- 👀 I’m interested in Reseaching
+- 👀 I’m interested in Researching
 - 🌱 I’m currently learning Machine Learning and Deep Learning
 - 💞️ I’m looking to collaborate on Deep Learning
 - 📫 How to reach me avanibhuva7@gmail.com
